@@ -130,14 +130,9 @@ Extend your Library Management System with the following advanced features.
 2. A **clear and concise README file**.
 3. A **class diagram** showing the relationships between your classes.
     - Add this **in your README**.
+4. To submit your project, please provide a link to your GitHub repository and your submission should be a PR.
+5. **[Important] Make sure the repository is public.**
+
 
 ---
 
-## Submission Instructions
-
-To submit your project:
-
-- Provide a **link to your GitHub repository**.
-- Your submission should be a **Pull Request (PR)**.
-
-> **Important:** Make sure the repository is **public**.
